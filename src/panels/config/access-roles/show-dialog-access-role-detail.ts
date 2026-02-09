@@ -1,0 +1,1 @@
+// src/panels/config/access-roles/show-dialog-access-role-detail.ts content here

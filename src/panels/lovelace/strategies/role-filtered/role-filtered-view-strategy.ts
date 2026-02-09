@@ -1,0 +1,1 @@
+// src/panels/lovelace/strategies/role-filtered/role-filtered-view-strategy.ts content here
